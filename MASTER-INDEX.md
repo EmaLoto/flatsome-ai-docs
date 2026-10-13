@@ -8,7 +8,10 @@
 
 ## Inventario
 - [Inventario de widgets](inventory/WIDGET-INVENTORY.md): registro central de elementos identificados.
+- [Índice de elementos de la demo oficial](inventory/DEMO-ELEMENTS-INDEX.md): punto de partida para descubrir familias, con límites de evidencia explícitos.
+- [Procedimiento de inventario](inventory/INVENTORY-PROCESS.md): flujo reproducible para verificar controles y completar fichas.
 - [Plantilla de ficha](widgets/WIDGET-TEMPLATE.md): estructura sugerida para documentar cada widget.
+- [Fuentes oficiales](sources/OFFICIAL-SOURCES.md): enlaces, usos y límites de las referencias públicas.
 
 ## WooCommerce
 - [Alcance WooCommerce](woocommerce/README.md): cómo separar controles de Flatsome y funciones de WooCommerce.
