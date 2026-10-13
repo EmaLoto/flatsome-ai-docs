@@ -5,13 +5,19 @@
 
 ## Registro central
 
-| Nombre exacto en interfaz | Categoría | Evidencia | Ficha | Notas |
+| Nombre en demo / familia | Categoría de investigación | Evidencia | Ficha | Notas |
 |---|---|---|---|---|
-| Pendiente de inventario | Estructura/layout | Pendiente de verificar | — | Registrar tras inspeccionar el builder de 3.20.11. |
-| Pendiente de inventario | Texto y contenido | Pendiente de verificar | — | No deducir nombres desde demos o documentación genérica. |
-| Pendiente de inventario | Imágenes y medios | Pendiente de verificar | — | Registrar controles por dispositivo solo si se prueban. |
-| Pendiente de inventario | Botones y enlaces | Pendiente de verificar | — | Separar destino, apariencia y comportamiento. |
-| Pendiente de inventario | Elementos WooCommerce | Pendiente de verificar | — | Diferenciar controles de Flatsome y WooCommerce. |
+| Sections | Estructura/layout | Observado en demo | [Section](../widgets/SECTION.md) | Controles y nombre exacto en selector pendientes. |
+| Rows / Columns | Estructura/layout | Observado en demo | [Rows / Columns](../widgets/ROW-COLUMNS.md) | Confirmar jerarquía y nombres en Classic. |
+| Banners | Contenido visual | Observado en demo | [Banner](../widgets/BANNER.md) | Ejemplos visuales; opciones del panel pendientes. |
+| Images | Medios | Observado en demo | [Image](../widgets/IMAGE.md) | No asumir que cada efecto es un control del mismo elemento. |
+| Buttons | Acción / enlace | Observado en demo | [Buttons](../widgets/BUTTON.md) | Controles exactos pendientes. |
+| Icon Box | Contenido / presentación | Observado en demo | [Icon Box](../widgets/ICON-BOX.md) | Nombre de familia; panel pendiente. |
+| Image Box | Contenido visual | Observado en demo | [Image Box](../widgets/IMAGE-BOX.md) | Variantes mostradas en demo; panel pendiente. |
+| Accordion | Contenido interactivo | Observado en demo | [Accordion](../widgets/ACCORDION.md) | Ejemplos visibles; controles pendientes. |
+| Tabs | Contenido interactivo | Observado en demo | [Tabs](../widgets/TABS.md) | Nombre de familia; controles pendientes. |
+| Products | WooCommerce / catálogo | Observado en demo | [Products](../widgets/PRODUCTS.md) | Controles y consultas pendientes. |
+| Product Categories | WooCommerce / catálogo | Observado en demo | [Product Categories](../widgets/PRODUCT-CATEGORIES.md) | Estilos visibles en demo; panel pendiente. |
 
 ## Cómo añadir una entrada
 1. Abrir UX Builder en una instalación confirmada de 3.20.11.
