@@ -18,6 +18,14 @@
 | Tabs | Contenido interactivo | Observado en demo | [Tabs](../widgets/TABS.md) | Nombre de familia; controles pendientes. |
 | Products | WooCommerce / catálogo | Observado en demo | [Products](../widgets/PRODUCTS.md) | Controles y consultas pendientes. |
 | Product Categories | WooCommerce / catálogo | Observado en demo | [Product Categories](../widgets/PRODUCT-CATEGORIES.md) | Estilos visibles en demo; panel pendiente. |
+| Galleries | Medios | Observado en demo | [Galleries](../widgets/GALLERIES.md) | Variantes visuales; controles pendientes. |
+| Video | Medios | Observado en demo / parcial | [Video](../widgets/VIDEO.md) | No confundir con vídeo abierto desde Image/lightbox. |
+| Blog Posts | Contenido editorial | Observado en demo | [Blog Posts](../widgets/BLOG-POSTS.md) | Consulta y metadatos pendientes. |
+| Testimonials | Contenido / slider | Observado en demo | [Testimonials](../widgets/TESTIMONIALS.md) | Fuente de contenido y controles pendientes. |
+| Search Box | Búsqueda | Observado en demo | [Search Box](../widgets/SEARCH-BOX.md) | Demo muestra estilos Default y Flat; panel pendiente. |
+| Countdown | Interactivo | Observado en demo | [Countdown](../widgets/COUNTDOWN.md) | Fecha, zona horaria y fin pendientes. |
+| Map | Integración / contenido | Observado en demo | [Map](../widgets/MAP.md) | Proveedor y requisitos API pendientes. |
+| Forms | Formularios / posible integración | Observado en demo | [Forms](../widgets/FORMS.md) | Confirmar si es nativo o depende de integración. |
 
 ## Cómo añadir una entrada
 1. Abrir UX Builder en una instalación confirmada de 3.20.11.
